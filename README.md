@@ -66,7 +66,8 @@ Real-world data is powerful, but limited:
 
 We bridge these limitations by **training on the real**, then **generating synthetic cohorts** that:
 
-- 🧬 Fill in gaps (e.g., rare diseases, underrepresented groups)  
+- 🧬 Longitudinal Depth
+- 🧬 Fill in gaps (e.g., rare diseases, underrepresented groups)    
 - 🔁 Reflect real-world comorbidities and disease progression  
 - 🚀 Enable **instant, compliant use** in research, testing, AI, and demos
 
@@ -91,6 +92,9 @@ With every record, you're not just getting data — you're getting:
 - Clinical trial simulations & control arms  
 - Healthcare software testing  
 - Research without IRB restrictions  
+- Rare disease biomarker discovery 
+- HealthTech device validation  
+- Scenario testing
 - Educational tools & analytics training  
 
 ---
@@ -101,21 +105,43 @@ Sample files are available in this repository under the `/datasets` directory. F
 
 - `.csv`  
 - `.parquet`  
-- `.json` (FHIR bundles)  
+- `.json` (OMOP/FHIR bundles)  
+- `.Instant API access`
+
 
 > Looking for a **custom dataset** or full production license?  
 > 📧 Email us at **sales@clinicalgen.io** for quotes, options, and onboarding.
 
 ---
 
-## 🔐 Compliance & Validation
+Absolutely! Here's your updated **🔐 Compliance, Validation & Trust** section, now including an explanation of the real-world-inspired hybrid modeling — like provenance and wearable data — while keeping it privacy-safe and regulation-compliant:
 
-All datasets generated via the Clinical Data Generator are:
+---
 
-- ✅ **NIH N3C Benchmarked** (clinical consistency ≥ 98.7%)  
-- ✅ **HIPAA / GDPR compliant** (no real patient data used)  
-- ✅ **HITRUST-ready** infrastructure  
-- ✅ **Synthetic — no IRB required**  
+## 🔐 Compliance, Validation & Trust
+
+All datasets generated via the Clinical Data Generator undergo a rigorous privacy-first process, ensuring compliance, clinical realism, and operational readiness.
+
+- ✅ **NIH N3C Benchmarked** — clinically validated against national standards (≥ 98.7% consistency)  
+- ✅ **HIPAA & GDPR Compliant** — contains zero PHI, fully safe for global use  
+- ✅ **IRB-Exempt by Design** — synthetic data is not subject to human subject research rules  
+- ✅ **26-Stage Quality & Safety Pipeline** — including unit tests, statistical drift checks, and provenance chains  
+- ✅ **HITRUST-Ready Infrastructure** — supports SOC2 Type 2, ISO 27001, and secure data exchange  
+- ✅ **Cryptographic Anonymization** — built-in HMAC-SHA256 for ID generation + audit trails  
+- ✅ **Built on Real-World Clinical Patterns** — with hybrid modeling for realism, compliance, and control  
+
+> 🧬 Our data reflects reality, not identities.
+
+Our system goes beyond surface-level simulation by incorporating **real-world-inspired metadata** such as:
+- ZIP-level demographics  
+- Regionally accurate disease prevalence  
+- Wearable device signals (e.g., heart rate, steps, sleep patterns)  
+- Social determinants of health (e.g., income brackets, neighborhood health indices)
+
+Yet every output remains **fully synthetic**, **non-identifiable**, and **safe for use across borders and applications**.
+
+> 🛡️ We don’t anonymize messy data. We engineer clean, compliant data from the start.  
+> Every dataset is designed for safe use in research, healthcare, AI/ML, and enterprise development — without regulatory red tape.
 
 ---
 
