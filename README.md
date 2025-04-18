@@ -66,10 +66,9 @@ Real-world data is powerful, but limited:
 
 We bridge these limitations by **training on the real**, then **generating synthetic cohorts** that:
 
-- 🧬 Longitudinal Depth
-- 🧬 Fill in gaps (e.g., rare diseases, underrepresented groups)    
 - 🔁 Reflect real-world comorbidities and disease progression  
 - 🚀 Enable **instant, compliant use** in research, testing, AI, and demos
+- 🧬 Fill in gaps (e.g., rare diseases, underrepresented groups, Longitudinal Depth)
 
 ---
 
@@ -114,10 +113,6 @@ Sample files are available in this repository under the `/datasets` directory. F
 
 ---
 
-Absolutely! Here's your updated **🔐 Compliance, Validation & Trust** section, now including an explanation of the real-world-inspired hybrid modeling — like provenance and wearable data — while keeping it privacy-safe and regulation-compliant:
-
----
-
 ## 🔐 Compliance, Validation & Trust
 
 All datasets generated via the Clinical Data Generator undergo a rigorous privacy-first process, ensuring compliance, clinical realism, and operational readiness.
@@ -139,6 +134,42 @@ Our system goes beyond surface-level simulation by incorporating **real-world-in
 - Social determinants of health (e.g., income brackets, neighborhood health indices)
 
 Yet every output remains **fully synthetic**, **non-identifiable**, and **safe for use across borders and applications**.
+
+# Clinical Data Generator
+
+**Synthetic Data That Breaths Like Real Patients — Without the Privacy Risks.**
+
+---
+
+## 💡 **Driving Innovation with Data**
+
+**64+**  
+**Terabytes of Data** — Our massive, proprietary datasets power AI, clinical research, and innovation in healthcare.
+
+---
+
+**350M+**  
+**Anonymized Patient Records** — Over 350 million patient profiles, enabling deep insights while safeguarding privacy.
+
+---
+
+**70+**  
+**Countries Worldwide** — Serving clients in over 100 countries, ensuring global relevance and accessibility.
+
+---
+
+## 📦 **Custom Orders: Tailored Data Solutions**
+
+Need something specific? We’ll craft datasets that match your exact needs for **clinical trials**, **AI models**, or **research**.
+
+---
+
+## 🤝 **Partnerships That Drive Innovation**
+
+We’re always open to collaboration. Let’s join forces to advance healthcare, research, or AI development. Whether you're a **tech company**, **research institute**, or **healthcare provider**, our partnership can make a real impact.
+
+---
+
 
 > 🛡️ We don’t anonymize messy data. We engineer clean, compliant data from the start.  
 > Every dataset is designed for safe use in research, healthcare, AI/ML, and enterprise development — without regulatory red tape.
