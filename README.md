@@ -5,7 +5,7 @@
 
 **NIH-Validated Synthetic Patient Data for Healthcare, Research & AI Development**
 
-This repository serves as a **showcase of sample synthetic clinical datasets** generated using the [Clinical Data Generator](https://github.com/your-org/clinical-data-generator). These samples demonstrate the accuracy, realism, and customization possible for clients in healthcare, research, and life sciences.
+This repository serves as a **showcase of sample synthetic clinical datasets** generated using the [Clinical Data Generator](https://github.com/xxxxxxxxxxxxxxxxxxxx). These samples demonstrate the accuracy, realism, and customization possible for clients in healthcare, research, and life sciences.
 
 ---
 
@@ -124,7 +124,7 @@ All datasets generated via the Clinical Data Generator are:
 Interested in purchasing full datasets or generating a cohort tailored to your project?
 
 - 📧 Email: **sales@clinicalgen.io**  
-- 🌐 Website: [clinicalgen.io](https://clinicalgen.io)  
+- 🌐 Website: [clinicalgen.io](https://xxxxxxxxxxxxx.io)  
 - 📞 Phone: **1-800-DBLs**  
 - 🧪 Request a Live Demo  
 
