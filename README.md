@@ -59,7 +59,7 @@ We use advanced statistical modeling, disease progression algorithms, and **cryp
 
 Real-world data is powerful, but limited:
 
-- 🛑 Access is restricted and delayed by compliance concerns  
+- 🚫 Access is restricted and delayed by compliance concerns  
 - ❌ Many datasets are incomplete, inconsistent, or outdated  
 - 🔐 PHI requires deep anonymization  
 - 🧩 Rare conditions are underrepresented  
