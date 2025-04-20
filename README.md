@@ -1,11 +1,11 @@
 
 ---
 
-# Clinical Data Generator — Sample Datasets
+# DeepByteLabs — Sample Datasets
 
 **NIH-Validated Synthetic Patient Data for Healthcare, Research & AI Development**
 
-This repository serves as a **showcase of sample synthetic clinical datasets** generated using the [Clinical Data Generator](https://github.com/xxxxxxxxxxxxxxxxxxxx). These samples demonstrate the accuracy, realism, and customization possible for clients in healthcare, research, and life sciences.
+This repository serves as a **showcase of sample synthetic clinical datasets** generated using the [DeepByteLabs Temporal]. These samples demonstrate the accuracy, realism, and customization possible for clients in healthcare, research, and life sciences.
 
 ---
 
@@ -38,7 +38,7 @@ Rather than generating random synthetic records in isolation, we derive our mode
 - 🏥 Electronic Health Records (EHRs)  
 - 💵 Claims and billing datasets  
 - 📊 Clinical trials and registries  
-- 🧪 Public datasets (e.g., MIMIC-III, SEER, NHANES)
+- 🧪 Public datasets 
 
 These foundations enable us to simulate **natural patient journeys** with all the richness of the real world — without compromising privacy.
 
@@ -50,7 +50,7 @@ We use advanced statistical modeling, disease progression algorithms, and **cryp
 
 - ✅ Resembles real-world records in structure and behavior  
 - 🔐 Contains **zero Protected Health Information (PHI)**  
-- 🛡️ Passes **26 layers** of quality and safety validation  
+- 🛡️ Passes **64 layers** of quality and safety validation  
 - 🌍 Complies with **HIPAA, GDPR, and global standards**
 
 ---
@@ -105,7 +105,7 @@ Sample files are available in this repository under the `/datasets` directory. F
 - `.csv`  
 - `.parquet`  
 - `.json` (OMOP/FHIR bundles)  
-- `.Instant API access`
+- `.Instant API access`(Soon)
 
 
 > Looking for a **custom dataset** or full production license?  
@@ -143,18 +143,18 @@ Yet every output remains **fully synthetic**, **non-identifiable**, and **safe f
 
 ## 💡 **Driving Innovation with Data**
 
-**64+**  
+**....+**  
 **Terabytes of Data** — Our massive, proprietary datasets power AI, clinical research, and innovation in healthcare.
 
 ---
 
-**350M+**  
-**Anonymized Patient Records** — Over 350 million patient profiles, enabling deep insights while safeguarding privacy.
+**M+**  
+**Anonymized Patient Records** — ....million patient profiles, enabling deep insights while safeguarding privacy.
 
 ---
 
-**70+**  
-**Countries Worldwide** — Serving clients in over 100 countries, ensuring global relevance and accessibility.
+**.....+**  
+**Countries Worldwide** — Serving clients globally, ensuring global relevance and accessibility.
 
 ---
 
@@ -180,11 +180,12 @@ We’re always open to collaboration. Let’s join forces to advance healthcare,
 
 Interested in purchasing full datasets or generating a cohort tailored to your project?
 
-- 📧 Email: **sales@clinicalgen.io**  
-- 🌐 Website: [clinicalgen.io](https://xxxxxxxxxxxxx.io)  
-- 📞 Phone: **1-800-DBLs**  
-- 🧪 Request a Live Demo  
-
+- 📧 Email:
+- 🌐 Website:
+- 📞 Phone:
+- 🧪 Request a Live Demo 
+- https://discord.gg/bsYxQHtw5y
+ 
 ---
 
 ## 📄 License
