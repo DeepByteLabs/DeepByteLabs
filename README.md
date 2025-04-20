@@ -109,7 +109,7 @@ Sample files are available in this repository under the `/datasets` directory. F
 
 
 > Looking for a **custom dataset** or full production license?  
-> 📧 Email us at **sales@clinicalgen.io** for quotes, options, and onboarding.
+> 📧 Email us at **info.DeepByteLabs@protonmail.com** for quotes, options, and onboarding.
 
 ---
 
