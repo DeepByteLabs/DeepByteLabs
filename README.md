@@ -130,8 +130,8 @@ All datasets generated via the Clinical Data Generator undergo a rigorous privac
 Our system goes beyond surface-level simulation by incorporating **real-world-inspired metadata** such as:
 - ZIP-level demographics  
 - Regionally accurate disease prevalence  
-- Wearable device signals (e.g., heart rate, steps, sleep patterns)  
-- Social determinants of health (e.g., income brackets, neighborhood health indices)
+- Wearable device signals
+- Social determinants of health
 
 Yet every output remains **fully synthetic**, **non-identifiable**, and **safe for use across borders and applications**.
 
