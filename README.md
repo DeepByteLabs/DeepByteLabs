@@ -120,7 +120,8 @@ All datasets generated via the Clinical Data Generator undergo a rigorous privac
 - ✅ **NIH N3C Benchmarked** — clinically validated against national standards (≥ 98.7% consistency)  
 - ✅ **HIPAA & GDPR Compliant** — contains zero PHI, fully safe for global use  
 - ✅ **IRB-Exempt by Design** — synthetic data is not subject to human subject research rules  
-- ✅ **64-Stage Quality & Safety Pipeline** — including unit tests, statistical drift checks, and provenance chains  
+- ✅ **64-Stage Quality & Safety Pipeline** — including unit tests, statistical drift checks, and provenance chains 
+- ✅ **1000+ Constraints Layered Validation** — via deep pre-gen logic across medical, demographic, and social domains. 
 - ✅ **HITRUST-Ready Infrastructure** — supports SOC2 Type 2, ISO 27001, and secure data exchange  
 - ✅ **Cryptographic Anonymization** — built-in HMAC-SHA256 for ID generation + audit trails  
 - ✅ **Built on Real-World Clinical Patterns** — with hybrid modeling for realism, compliance, and control  
