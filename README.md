@@ -131,11 +131,5 @@ Design your own cohorts by:
 
 ---
 
-### 🧠 **Why This Resonates**  
-1. Speaks to **real pain points**, not just features  
-2. Validated by **FDA-aligned benchmarks**  
-3. Demonstrates **rare disease expertise**  
-4. Provides **frictionless adoption** (samples + custom builds)
 
----
 
