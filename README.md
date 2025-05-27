@@ -1,7 +1,16 @@
+```markdown
+```
+# DeepByteLabs
+## Hybrid Clinical Dataset
+![Version](https://img.shields.io/badge/version-3.1.0-blue)
+![Python](https://img.shields.io/badge/python-3.10+-green)
+![Redis](https://img.shields.io/badge/redis-6.0+-red)
+![Quality](https://img.shields.io/badge/quality-premium-gold)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
+```
+```
 ---
-
-# **DeepByteLabs**
 ## *Hybrid Synthetic Health Infrastructure Layer* 
 ### *FDA-Aligned, Research-Ready Patient Simulations for Pharma, AI & Rare Disease Innovation*
 
