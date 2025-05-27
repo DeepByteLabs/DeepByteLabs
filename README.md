@@ -1,12 +1,13 @@
 ```markdown
 ```
-# DeepByteLabs
-## Hybrid Clinical Dataset
-![Version](https://img.shields.io/badge/version-3.1.0-blue)
-![Python](https://img.shields.io/badge/python-3.10+-green)
-![Redis](https://img.shields.io/badge/redis-6.0+-red)
-![Quality](https://img.shields.io/badge/quality-premium-gold)
-![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+# DeepByteLabs  
+## Hybrid Clinical Dataset  
+
+[![Version](https://img.shields.io/badge/DATA_VERSION-3.2.5-blue?style=for-the-badge&logo=open-data)]({V})  
+[![Notebooks](https://img.shields.io/badge/JUPYTER_NOTEBOOKS-EXPLORE-green?style=for-the-badge&logo=jupyter)]({J})  
+[![Standard](https://img.shields.io/badge/STANDARD_TRIALSET-ACCESS-red?style=for-the-badge&logo=testrail)]({S})  
+[![Premium](https://img.shields.io/badge/PREMIUM_TRIALSET-UNLOCK-gold?style=for-the-badge&logo=starship)]({P})  
+[![License](https://img.shields.io/badge/DATA_LICENSE-VIEW-lightgrey?style=for-the-badge&logo=creativecommons)]({L})  
 
 ```
 ```
